@@ -1,5 +1,5 @@
 # compuational_physics_N2015301020033
-#homework1
+# homework1
     print('     #       #          #           #######  #######      #')
     print('    # #     # #        # #             #        #        # #')
     print('   #   #   #   #      #####            #        #       #####')
