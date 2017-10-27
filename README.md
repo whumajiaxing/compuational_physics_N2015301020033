@@ -31,3 +31,7 @@ report and results:https://www.zybuluo.com/whumjx/note/910404
 # homework5
 code:https://www.zybuluo.com/whumjx/note/922486
 report and results:https://www.zybuluo.com/whumjx/note/922418
+
+# homework6
+code:https://www.zybuluo.com/whumjx/note/930241
+report and results:https://www.zybuluo.com/whumjx/note/930162
